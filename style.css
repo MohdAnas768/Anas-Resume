@@ -50,7 +50,9 @@ body {
 
   ul {
     list-style: circle;
-    padding-left: 0;
+    padding-left: 20%;
+    /* display: inline; */
+
   }
 
   ul li {
@@ -60,3 +62,15 @@ body {
   .section p {
     margin: 10px 0;
   }
+/* 
+  #skill{
+
+    display: flex;
+    
+    
+  }
+
+  .skillsec
+  {
+
+  } */
